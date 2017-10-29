@@ -1,4 +1,5 @@
 sfdx-source: false
+source-folder: src/
 assign-permset: false
 run-apex-tests: false
 delete-scratch-org: false
