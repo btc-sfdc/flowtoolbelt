@@ -1,0 +1,5 @@
+sfdx-source: false
+assign-permset: false
+run-apex-tests: false
+delete-scratch-org: false
+show-scratch-org-url: true
